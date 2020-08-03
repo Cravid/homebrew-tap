@@ -10,4 +10,4 @@ brew tap cravid/repo
 
 ```bash
 brew install cravid/repo/sizes
-``
+```
