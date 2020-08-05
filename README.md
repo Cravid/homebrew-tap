@@ -5,9 +5,9 @@ Custom tap repo for Homebrew.
 ## Install
 
 ```bash
-brew tap cravid/repo
+brew tap cravid/tap
 ```
-
+or directly like
 ```bash
-brew install cravid/repo/sizes
+brew install cravid/tap/sizes
 ```
