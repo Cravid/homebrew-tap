@@ -5,7 +5,7 @@ class Dirsync < Formula
   desc ""
   homepage ""
   url "https://github.com/Cravid/dirsync/archive/v1.0.0.tar.gz"
-  sha256 "31acea31d5d274d6fbae300cc1f1001493dffd77a1da81de52f65c83dd4286ca"
+  sha256 "b2c91fd132b4b6e6cc861051c5336f6e37b7881893d9cf4d98de01fcf0daed37"
   license ""
 
   # depends_on "cmake" => :build
