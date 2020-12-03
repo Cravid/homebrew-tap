@@ -5,7 +5,7 @@ class Slugify < Formula
   desc ""
   homepage ""
   url "https://github.com/Cravid/slugify/archive/v1.0.1.tar.gz"
-  sha256 "2f40f66b1a451add457f52c119e1b635d28e0e7dccf22c3c03d5164b6eb5074f"
+  sha256 "7114be5feaaf1bbd9b7c23bd6490227ad277da5867db08953e2c0c332658fdd2"
   license ""
 
   # depends_on "cmake" => :build
