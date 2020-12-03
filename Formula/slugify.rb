@@ -4,7 +4,7 @@
 class Slugify < Formula
   desc ""
   homepage ""
-  url "https://github.com/Cravid/slugify/archive/v1.0.0.tar.gz"
+  url "https://github.com/Cravid/slugify/archive/v1.0.1.tar.gz"
   sha256 "2f40f66b1a451add457f52c119e1b635d28e0e7dccf22c3c03d5164b6eb5074f"
   license ""
 
