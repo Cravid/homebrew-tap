@@ -1,4 +1,4 @@
-class Dirsync < Formula
+class Dehumanise < Formula
   desc ""
   homepage ""
   url "https://github.com/Cravid/dehumanise/archive/v1.0.0.tar.gz"
