@@ -3,8 +3,8 @@ class Fsearch < Formula
   homepage ""
   revision 1
   
-  url "https://github.com/Cravid/fsearch/archive/v1.0.0.tar.gz"
-  sha256 "b01a70233cf3fc5022519cedb8892967fec4138ae9d22959903b58c8c8c6319e"
+  url "https://github.com/Cravid/fsearch/archive/v1.0.1.tar.gz"
+  sha256 "f111e1147296117eab3581bc461c04193ef1059cc588c13b9c2e0dcfda01f8e1"
   license ""
 
   depends_on "cravid/tap/dehumanise"
