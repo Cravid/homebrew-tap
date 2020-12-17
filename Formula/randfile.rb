@@ -1,8 +1,8 @@
 class Randfile < Formula
   desc "CLI tool to create a random file"
   homepage ""
-  url "https://github.com/Cravid/randfile/archive/v1.1.0.zip"
-  sha256 "b0710627eaf97c9c7dd039d8070a3ffe89fc6a4a975c508d00db15bfb67db3c1"
+  url "https://github.com/Cravid/randfile/archive/v1.1.1.zip"
+  sha256 "cbe4f8542fdd97649f46f2575dde3778fc4264dd6988eb883aaa194fe4f81a23"
   license ""
 
   depends_on "Cravid/tap/dehumanise"
