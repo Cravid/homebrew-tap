@@ -1,14 +1,8 @@
-# Documentation: https://docs.brew.sh/Formula-Cookbook
-#                https://rubydoc.brew.sh/Formula
-# PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 class Sizes < Formula
-  desc ""
-  homepage ""
-  url "https://github.com/Cravid/sizes/archive/v1.0.0.tar.gz"
-  sha256 "b3fd86a4e04e18dbe2fe56557a7abae8623577706f1807500eac7cb34fedf64f"
-  license ""
-
-  # depends_on "cmake" => :build
+  homepage "https://github.com/Cravid/sizes/"
+  url "https://github.com/Cravid/sizes/archive/v1.1.0.tar.gz"
+  sha256 "8d50126b77971c8d40d5066537bc3332434971dc0308d366185819f1cfb96c4c"
+  license "MIT"
 
   def install
     bin.install "sizes"
