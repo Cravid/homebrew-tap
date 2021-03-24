@@ -6,6 +6,7 @@ class Bench < Formula
 
   depends_on "Cravid/tap/dehumanise"
   depends_on "Cravid/tap/humanise"
+  depends_on "Cravid/tap/md5x"
 
   def install
     bin.install "bench"
